@@ -1,4 +1,4 @@
-export default const quiz = {
+export const quiz = {
     q1:"How many faces does a Dodecahedron have?",
     options1: {
     opt1:"10",
@@ -70,4 +70,4 @@ export default const quiz = {
     opt4:"The Great Red Spot on Jupiter"
     },
 }
-export let crtAns1=quiz.options1.opt2,crtAns2=quiz.options2.opt1,crtAns3=quiz.options3.opt4,crtAns4=quiz.options4.opt4,crtAns5=quiz.options5.opt3,crtAns6=quiz.options6.opt2,crtAns7=quiz.options7.opt3,crtAns8=quiz.options8.opt1,crtAns9=quiz.options9.opt4,crtAns10=quiz.options10.opt2;
+let crtAns1=quiz.options1.opt2,crtAns2=quiz.options2.opt1,crtAns3=quiz.options3.opt4,crtAns4=quiz.options4.opt4,crtAns5=quiz.options5.opt3,crtAns6=quiz.options6.opt2,crtAns7=quiz.options7.opt3,crtAns8=quiz.options8.opt1,crtAns9=quiz.options9.opt4,crtAns10=quiz.options10.opt2;
