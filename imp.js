@@ -1,4 +1,4 @@
-export const quiz = {
+ const quiz = {
     q1:"How many faces does a Dodecahedron have?",
     options1: {
     opt1:"10",
